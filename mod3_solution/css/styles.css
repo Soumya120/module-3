@@ -12,6 +12,7 @@ body {
     background-color: #c98715;
     border-radius: 0;
     border: 0;
+    width:100%;
 }
 
 #header-nav button {
